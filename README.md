@@ -63,14 +63,20 @@ run MRcutter.exe
 MRcutter is intended for:
 
 ✅ Educational purposes
+
 ✅ Network administration
+
 ✅ Pentesting
+
 ✅ Vulnerability assessment
+
 ✅ Network analysis
 
 
 ❌ Not for scriptkiddies
+
 ❌ Not for cybercrime
+
 ❌ Not for revenge on particular people
 
 👤 Author
