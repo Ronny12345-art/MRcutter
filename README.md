@@ -52,8 +52,10 @@ MRcutter exterminate all those issues
 
 🚀 If using Commandline Interface
 
-git clone https://github.com/yourusername/MRcutter.git
+git clone https://github.com/Ronny12345-art/MRcutter.git
+
 cd MRcutter
+
 run MRcutter.exe
 
 ⚠️ Ethical Use Disclaimer
