@@ -81,7 +81,7 @@ MRcutter is intended for:
 
 👤 Author
 
-Ronny Rogers (Mugabo Rongin)
+Ronny Rogers 
 💻 Developer | 🛡️ Cyber security specialist | ⚡ Pentester 
 
 “Control the network.”
