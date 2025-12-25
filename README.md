@@ -79,6 +79,8 @@ MRcutter is intended for:
 
 ❌ Not for revenge on particular people
 
+https://ronny12345-art.github.io/ronnyrogers.dev/
+
 👤 Author
 
 Ronny Rogers 
