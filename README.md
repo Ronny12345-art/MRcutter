@@ -75,7 +75,9 @@ MRcutter is intended for:
 
 ❌ Not for scriptkiddies
 
-❌ Not for cybercrime
+❌ Not for cybercrime 
+
+Developer's website: https://temp-wgktoqotyspoddhwlaln.webadorsite.com/?_gl=1*7vsbd1*_gcl_au*MTczNzc2NDMwMC4xNzY4NjQwODQxLjEzNjc2OTI1MDguMTc2ODY0MDk3MC4xNzY4NjQwOTY5*_ga*MjAyNzI3NjcyMS4xNzY4NjQwNzk2*_ga_E6PZPGE4QM*czE3Njg2NDA3OTQkbzEkZzEkdDE3Njg2NDM5NDkkajYwJGwwJGgyMDMzMTI1NTUz
 
 ❌ Not for revenge on particular people
 
