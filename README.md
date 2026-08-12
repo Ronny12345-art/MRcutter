@@ -61,6 +61,8 @@ cd MRcutter
 
 run MRcutter.exe
 
+Video tutorial of Downloading and installing MRcutter : https://youtu.be/cHoRkuE_qB0
+
 ⚠️ Ethical Use Disclaimer
 
 MRcutter is intended for:
