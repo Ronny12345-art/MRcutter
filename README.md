@@ -1,96 +1,112 @@
 # Mugabo Rongin 👋
 
 ![Profile Image](https://github.com/Ronny12345-art/MRcutter/blob/master/mugabo-rongin-cybersecurity.png)
-🚦 MRcutter
 
-A network control & monitoring tool
-Built with ❤️, ☕, and controlled chaos by Ronny Rogers (Mugabo Rongin)
+# 🚦 MRcutter
 
-🧠 What is MRcutter?
+**A network control & monitoring tool**
 
-MRcutter is a lightweight LAN network management tool that lets you:
+Built with ❤️, ☕, and controlled chaos by **Ronny Rogers (Mugabo Rongin)**.
 
-✂️ Cut internet access 
+## 🧠 What is MRcutter?
 
-🐌 Limit bandwidth for particular devices or even for all devices
+**MRcutter** is a lightweight LAN network management and monitoring tool for Windows.
 
-👀 Monitor devices on your Local Area Network
+It allows you to:
 
-🎯 Take speed control over a Wi-Fi
+* ✂️ Cut internet access for particular devices
+* 🐌 Limit bandwidth for particular devices or the network
+* 👀 Monitor devices on your Local Area Network
+* 🎯 Take speed control over a Wi-Fi network
 
-
-😈 Why MRcutter?
+## 😈 Why MRcutter?
 
 Because:
 
-* your internet is slow like a snail 
-
+* Your internet is slow like a snail
 * Your ping is higher than your internet speed
+* You're tired of dealing with low internet speed
 
-* You’re tired of anger due to low internet speed
+**MRcutter helps you take control of your local network.**
 
-MRcutter exterminate all those issues
+## ✨ Features
 
-✨ Features
+* 🔍 Auto-detect devices on LAN
+* 🚫 Block / unblock internet access
+* 🎚️ Bandwidth control
+* 🧪 Real-time traffic monitoring
+* 🖥️ Simple user interface
+* ⚡ Designed for practical LAN network management
 
-🔍 Auto-detect devices on LAN
-
-🚫 Block / unblock internet access
-
-🎚️ Bandwidth playing
-
-🧪 Real-time traffic monitoring
-
-🖥️ Simple UI 
-
-⚡ Faster than waiting st night while others are asleep to get high internet speed
-
-⚙️ Requirements
+## ⚙️ Requirements
 
 * Windows (for now)
-
 * Administrator privileges
+* WinPcap driver installation
 
-* Winpcap driver installation
+## 📺 Installation Tutorial
 
-🚀 If using Commandline Interface
+Want to see how to download and install **MRcutter 2.0.0**?
 
+Watch the step-by-step YouTube tutorial:
+
+**[How to Download & Install MRcutter 2.0.0 | Developed by Mugabo Rongin](https://youtu.be/cHoRkuE_qB0)**
+
+🎥 **YouTube:** https://youtu.be/cHoRkuE_qB0
+
+**Developer:** Mugabo Rongin (Ronny Rogers)
+
+## 🚀 Command Line Installation
+
+```bash
 git clone https://github.com/Ronny12345-art/MRcutter.git
 
 cd MRcutter
 
 run MRcutter.exe
+```
 
-Video tutorial of Downloading and installing MRcutter : https://youtu.be/cHoRkuE_qB0
-
-⚠️ Ethical Use Disclaimer
+## ⚠️ Ethical Use Disclaimer
 
 MRcutter is intended for:
 
-✅ Educational purposes
+* ✅ Educational purposes
+* ✅ Network administration
+* ✅ Pentesting
+* ✅ Vulnerability assessment
+* ✅ Network analysis
 
-✅ Network administration
+MRcutter should **not** be used for:
 
-✅ Pentesting
+* ❌ Cybercrime
+* ❌ Unauthorized access to networks
+* ❌ Attacking or disrupting networks without permission
+* ❌ Revenge against particular people
 
-✅ Vulnerability assessment
+Use MRcutter only on networks and devices that you own or have explicit permission to test and manage.
 
-✅ Network analysis
+## 👤 Author & Developer
 
+**Ronny Rogers (Mugabo Rongin)**
 
-❌ Not for scriptkiddies
+💻 Developer
+🛡️ Cybersecurity specialist
+⚡ Pentester
 
-❌ Not for cybercrime 
-
-Developer's website: https://temp-wgktoqotyspoddhwlaln.webadorsite.com/?_gl=1*7vsbd1*_gcl_au*MTczNzc2NDMwMC4xNzY4NjQwODQxLjEzNjc2OTI1MDguMTc2ODY0MDk3MC4xNzY4NjQwOTY5*_ga*MjAyNzI3NjcyMS4xNzY4NjQwNzk2*_ga_E6PZPGE4QM*czE3Njg2NDA3OTQkbzEkZzEkdDE3Njg2NDM5NDkkajYwJGwwJGgyMDMzMTI1NTUz
-
-❌ Not for revenge on particular people
+### 🌐 Developer Website
 
 https://ronny12345-art.github.io/ronnyrogers.dev/
 
-👤 Author
+### 💻 GitHub
 
-Ronny Rogers 
-💻 Developer | 🛡️ Cyber security specialist | ⚡ Pentester 
+https://github.com/Ronny12345-art
 
-“Control the network.”
+### 🚦 MRcutter Repository
+
+https://github.com/Ronny12345-art/MRcutter
+
+### 📺 MRcutter Installation Tutorial
+
+https://youtu.be/cHoRkuE_qB0
+
+> **“Control the network.”**
