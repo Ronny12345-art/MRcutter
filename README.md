@@ -95,7 +95,7 @@ Use MRcutter only on networks and devices that you own or have explicit permissi
 
 ### 🌐 Developer Website
 
-https://ronny12345-art.github.io/ronnyrogers.dev/
+https://ronny12345-art.github.io/mugaborongin.github.io/
 
 ### 💻 GitHub
 
